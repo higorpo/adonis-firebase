@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jrishabh55/adonis-firebase.git"
+    "url": "git+https://github.com/higorpo/adonis-firebase.git"
   },
   "keywords": [
     "adonisjs",
@@ -18,11 +18,11 @@
   "author": "Rishabh Jain",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jrishabh55/adonis-firebase/issues"
+    "url": "https://github.com/higorpo/adonis-firebase/issues"
   },
   "homepage": "https://github.com/jrishabh55/adonis-firebase#readme",
   "dependencies": {
-    "firebase": "^4.8.0",
-    "firebase-admin": "^5.5.1"
+    "firebase": "^7.6.1",
+    "firebase-admin": "^8.9.0"
   }
 }
